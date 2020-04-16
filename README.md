@@ -1,4 +1,4 @@
-<b>Latest Update: 2020-04-14 08:32:02.158282, Latest Data: 13-04-2020</b>
+<b>Latest Update: 2020-04-16 07:05:08.988791, Latest Data: 15-04-2020</b>
 # COVID-19-worldwide-analysis
 
 Graphical analysis of COVID-19 international data in order to follow the epidemic's progression in the developed world. The notebook is updated daily from "2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE" (https://github.com/CSSEGISandData/COVID-19).
@@ -15,7 +15,9 @@ PPTX file with the graphs, ready for distribution<br>
 All the produces graphs<br>
 
 ***
-<h2> Results </h2><h3>Israel on Key Metrics<h3>
+<h2> Results </h2><h3>Main indicators in Israel(Progression in the last week)<h3>
+<img src="New_Graphs/Main indicators in Israel(Progression in the last week).png" width="700">
+<h3>Israel on Key Metrics<h3>
 <img src="New_Graphs/Israel on Key Metrics.png" width="700">
 <h3>Changes in Israel's Rankings from Last Week<h3>
 <img src="New_Graphs/Changes in Israel's Rankings from Last Week.png" width="700">
@@ -35,8 +37,8 @@ All the produces graphs<br>
 <img src="New_Graphs/Confirmed Cases in Israel.png" width="700">
 <h3>Confirmed Cases in Israel(Since the 100th Case)<h3>
 <img src="New_Graphs/Confirmed Cases in Israel(Since the 100th Case).png" width="700">
-<h3>Confirmed Cases(Since the 100th Case, First 32 Days)<h3>
-<img src="New_Graphs/Confirmed Cases(Since the 100th Case, First 32 Days).png" width="700">
+<h3>Confirmed Cases(Since the 100th Case, First 34 Days)<h3>
+<img src="New_Graphs/Confirmed Cases(Since the 100th Case, First 34 Days).png" width="700">
 <h3>Confirmed Cases(Since the 100th Case)<h3>
 <img src="New_Graphs/Confirmed Cases(Since the 100th Case).png" width="700">
 <h3>Fatal Cases by Country<h3>
@@ -45,8 +47,8 @@ All the produces graphs<br>
 <img src="New_Graphs/Fatal Cases in Israel.png" width="700">
 <h3>Fatal Cases in Israel(Since the 100th Case)<h3>
 <img src="New_Graphs/Fatal Cases in Israel(Since the 100th Case).png" width="700">
-<h3>Fatal Cases(Since the 10th Case, First 17 Days)<h3>
-<img src="New_Graphs/Fatal Cases(Since the 10th Case, First 17 Days).png" width="700">
+<h3>Fatal Cases(Since the 10th Case, First 19 Days)<h3>
+<img src="New_Graphs/Fatal Cases(Since the 10th Case, First 19 Days).png" width="700">
 <h3>Fatal Cases(Since the 10th Case)<h3>
 <img src="New_Graphs/Fatal Cases(Since the 10th Case).png" width="700">
 <h3>Confirmed Cases by Country(per 1m People)<h3>
