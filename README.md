@@ -1,4 +1,4 @@
-**Latest Update: May 19, 2020, Latest Data: May 18, 2020**
+**Latest Update: May 20, 2020, Latest Data: May 19, 2020**
 # COVID-19-worldwide-analysis
 https://eladweller.github.io/COVID-19-worldwide-analysis/
 
@@ -31,23 +31,23 @@ _**Graphs/**_
 <img src="New_Graphs/Confirmed Cases by Country.png">[full size](New_Graphs/Confirmed Cases by Country.png)
 <img src="New_Graphs/Confirmed Cases in Israel.png">[full size](New_Graphs/Confirmed Cases in Israel.png)
 <img src="New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png)
-<img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 67 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 67 Days).png)
+<img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 68 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 68 Days).png)
 <img src="New_Graphs/Confirmed Cases (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case).png)
 <img src="New_Graphs/Fatal Cases by Country.png">[full size](New_Graphs/Fatal Cases by Country.png)
 <img src="New_Graphs/Fatal Cases in Israel.png">[full size](New_Graphs/Fatal Cases in Israel.png)
 <img src="New_Graphs/Fatal Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Fatal Cases in Israel (Since the 100th Case).png)
-<img src="New_Graphs/Fatal Cases (Since the 10th Case).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case).png)
-<img src="New_Graphs/Fatal Cases (Since the 10th Case, First 52 Days).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case, First 52 Days).png)
+<img src="New_Graphs/Fatal Cases (Since the 10th Case, First 53 Days).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case, First 53 Days).png)
 <img src="New_Graphs/Confirmed Cases by Country (per 1m People).png">[full size](New_Graphs/Confirmed Cases by Country (per 1m People).png)
 <img src="New_Graphs/Cases per 1m People (Since Reaching 10 Cases per 1m).png">[full size](New_Graphs/Cases per 1m People (Since Reaching 10 Cases per 1m).png)
 <img src="New_Graphs/Fatal Cases by Country (per 1m People).png">[full size](New_Graphs/Fatal Cases by Country (per 1m People).png)
-<img src="New_Graphs/Fatal Cases per 1m People (Since Reaching 3 Cases per 1m).png">[full size](New_Graphs/Fatal Cases per 1m People (Since Reaching 3 Cases per 1m).png)
 <img src="New_Graphs/Cases and Mortality per 1m People.png">[full size](New_Graphs/Cases and Mortality per 1m People.png)
+<img src="New_Graphs/Fatal Cases per 1m People (Since Reaching 3 Cases per 1m).png">[full size](New_Graphs/Fatal Cases per 1m People (Since Reaching 3 Cases per 1m).png)
+<img src="New_Graphs/Fatal Cases (Since the 10th Case).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case).png)
 <img src="New_Graphs/Incrasing number of cases vs mortality rate.png">[full size](New_Graphs/Incrasing number of cases vs mortality rate.png)
+<img src="New_Graphs/Percent Change in Fatal Cases (After 10 Fatal Cases, 10-days Moving Average).png">[full size](New_Graphs/Percent Change in Fatal Cases (After 10 Fatal Cases, 10-days Moving Average).png)
+<img src="New_Graphs/Percent Change in Cases (Since the 100th case, 10-days moving average).png">[full size](New_Graphs/Percent Change in Cases (Since the 100th case, 10-days moving average).png)
 <img src="New_Graphs/New Confirmed Cases per Day (Since Reaching 30, 7-day Moving Average).png">[full size](New_Graphs/New Confirmed Cases per Day (Since Reaching 30, 7-day Moving Average).png)
 <img src="New_Graphs/New Fatal Cases per Day (Since Reaching 3, 7-day Moving Average).png">[full size](New_Graphs/New Fatal Cases per Day (Since Reaching 3, 7-day Moving Average).png)
-<img src="New_Graphs/Percent Change in Fatal Cases (After 10 Fatal Cases, 10-days Moving Average).png">[full size](New_Graphs/Percent Change in Fatal Cases (After 10 Fatal Cases, 10-days Moving Average).png)
 <img src="New_Graphs/New Confirmed Cases per 1m (Since Reaching 30, 7-day Moving Average).png">[full size](New_Graphs/New Confirmed Cases per 1m (Since Reaching 30, 7-day Moving Average).png)
-<img src="New_Graphs/Percent Change in Cases (Since the 100th case, 10-days moving average).png">[full size](New_Graphs/Percent Change in Cases (Since the 100th case, 10-days moving average).png)
 <img src="New_Graphs/Daily fatalities per 1m (Since Reaching 30, 7-day Moving Average).png">[full size](New_Graphs/Daily fatalities per 1m (Since Reaching 30, 7-day Moving Average).png)
 <img src="New_Graphs/Outbrake Status (Active Cases as a Percentage of Total Cases).png">[full size](New_Graphs/Outbrake Status (Active Cases as a Percentage of Total Cases).png)
