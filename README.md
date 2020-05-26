@@ -1,4 +1,4 @@
-**Latest Update: May 25, 2020, Latest Data: May 24, 2020**
+**Latest Update: May 26, 2020, Latest Data: May 25, 2020**
 # COVID-19-worldwide-analysis
 https://eladweller.github.io/COVID-19-worldwide-analysis/
 
@@ -25,19 +25,21 @@ _**Graphs/**_
 <img src="New_Graphs/Changes in Israel's Rankings from Last Week.png">[full size](New_Graphs/Changes in Israel's Rankings from Last Week.png)
 <img src="New_Graphs/COVID-19 confirmed cases vs COVID-19 fatalities, logarithmic scale.png">[full size](New_Graphs/COVID-19 confirmed cases vs COVID-19 fatalities, logarithmic scale.png)
 <img src="New_Graphs/Top 20 Countries by COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by COVID-19 Cases.png)
+<img src="New_Graphs/Top 20 Countries by Daily COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by Daily COVID-19 Cases.png)
 <img src="New_Graphs/Top 20 Countries by Fatal COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by Fatal COVID-19 Cases.png)
+<img src="New_Graphs/Top 20 Countries by Daily Fatal COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by Daily Fatal COVID-19 Cases.png)
 <img src="New_Graphs/Countries by COVID-19 Mortality Rates.png">[full size](New_Graphs/Countries by COVID-19 Mortality Rates.png)
 <img src="New_Graphs/Ratio Between Today and 10 Days Ago.png">[full size](New_Graphs/Ratio Between Today and 10 Days Ago.png)
 <img src="New_Graphs/Confirmed Cases by Country.png">[full size](New_Graphs/Confirmed Cases by Country.png)
 <img src="New_Graphs/Confirmed Cases in Israel.png">[full size](New_Graphs/Confirmed Cases in Israel.png)
 <img src="New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png)
-<img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 73 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 73 Days).png)
+<img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 74 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 74 Days).png)
 <img src="New_Graphs/Confirmed Cases (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case).png)
 <img src="New_Graphs/Confirmed Cases (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case).png)
 <img src="New_Graphs/Fatal Cases by Country.png">[full size](New_Graphs/Fatal Cases by Country.png)
 <img src="New_Graphs/Fatal Cases in Israel.png">[full size](New_Graphs/Fatal Cases in Israel.png)
 <img src="New_Graphs/Fatal Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Fatal Cases in Israel (Since the 100th Case).png)
-<img src="New_Graphs/Fatal Cases (Since the 10th Case, First 58 Days).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case, First 58 Days).png)
+<img src="New_Graphs/Fatal Cases (Since the 10th Case, First 59 Days).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case, First 59 Days).png)
 <img src="New_Graphs/Fatal Cases (Since the 10th Case).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case).png)
 <img src="New_Graphs/Fatal Cases (Since the 10th Case).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case).png)
 <img src="New_Graphs/Confirmed Cases by Country (per 1m People).png">[full size](New_Graphs/Confirmed Cases by Country (per 1m People).png)
