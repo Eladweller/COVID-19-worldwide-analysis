@@ -1,4 +1,4 @@
-**Latest Update: June 22, 2020, Latest Data: June 21, 2020**
+**Latest Update: June 23, 2020, Latest Data: June 22, 2020**
 # COVID-19-worldwide-analysis
 https://eladweller.github.io/COVID-19-worldwide-analysis/
 
@@ -33,13 +33,13 @@ _**Graphs/**_
 <img src="New_Graphs/Confirmed Cases by Country.png">[full size](New_Graphs/Confirmed Cases by Country.png)
 <img src="New_Graphs/Confirmed Cases in Israel.png">[full size](New_Graphs/Confirmed Cases in Israel.png)
 <img src="New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png)
-<img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 101 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 101 Days).png)
+<img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 102 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 102 Days).png)
 <img src="New_Graphs/Confirmed Cases (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case).png)
 <img src="New_Graphs/Confirmed Cases (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case).png)
 <img src="New_Graphs/Fatal Cases by Country.png">[full size](New_Graphs/Fatal Cases by Country.png)
 <img src="New_Graphs/Fatal Cases in Israel.png">[full size](New_Graphs/Fatal Cases in Israel.png)
 <img src="New_Graphs/Fatal Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Fatal Cases in Israel (Since the 100th Case).png)
-<img src="New_Graphs/Fatal Cases (Since the 10th Case, First 86 Days).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case, First 86 Days).png)
+<img src="New_Graphs/Fatal Cases (Since the 10th Case, First 87 Days).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case, First 87 Days).png)
 <img src="New_Graphs/Fatal Cases (Since the 10th Case).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case).png)
 <img src="New_Graphs/Fatal Cases (Since the 10th Case).png">[full size](New_Graphs/Fatal Cases (Since the 10th Case).png)
 <img src="New_Graphs/Confirmed Cases by Country (per 1m People).png">[full size](New_Graphs/Confirmed Cases by Country (per 1m People).png)
