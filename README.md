@@ -31,6 +31,7 @@ _**Graphs/**_
 <img src="New_Graphs/Countries by COVID-19 Mortality Rates.png">[full size](New_Graphs/Countries by COVID-19 Mortality Rates.png)
 <img src="New_Graphs/Ratio Between Today and 10 Days Ago.png">[full size](New_Graphs/Ratio Between Today and 10 Days Ago.png)
 <img src="New_Graphs/Confirmed Cases by Country.png">[full size](New_Graphs/Confirmed Cases by Country.png)
+<img src="New_Graphs/New and Active Cases in Israel.png">[full size](New_Graphs/New and Active Cases in Israel.png)
 <img src="New_Graphs/Confirmed Cases in Israel.png">[full size](New_Graphs/Confirmed Cases in Israel.png)
 <img src="New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png">[full size](New_Graphs/Confirmed Cases in Israel (Since the 100th Case).png)
 <img src="New_Graphs/Confirmed Cases (Since the 100th Case, First 103 Days).png">[full size](New_Graphs/Confirmed Cases (Since the 100th Case, First 103 Days).png)
