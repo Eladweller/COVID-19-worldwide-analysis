@@ -1,4 +1,4 @@
-**Latest Update: June 24, 2020, Latest Data: June 23, 2020**
+**Latest Update: June 25, 2020, Latest Data: June 23, 2020**
 # COVID-19-worldwide-analysis
 https://eladweller.github.io/COVID-19-worldwide-analysis/
 
