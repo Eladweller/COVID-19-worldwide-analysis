@@ -26,6 +26,7 @@ _**Graphs/**_
 <img src="New_Graphs/COVID-19 confirmed cases vs COVID-19 fatalities, logarithmic scale.png">[full size](New_Graphs/COVID-19 confirmed cases vs COVID-19 fatalities, logarithmic scale.png)
 <img src="New_Graphs/Top 20 Countries by COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by COVID-19 Cases.png)
 <img src="New_Graphs/Top 20 Countries by Daily COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by Daily COVID-19 Cases.png)
+<img src="New_Graphs/Top 20 Countries by Daily COVID-19 Cases per 1m.png">[full size](New_Graphs/Top 20 Countries by Daily COVID-19 Cases per 1m.png)
 <img src="New_Graphs/Top 20 Countries by Fatal COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by Fatal COVID-19 Cases.png)
 <img src="New_Graphs/Top 20 Countries by Daily Fatal COVID-19 Cases.png">[full size](New_Graphs/Top 20 Countries by Daily Fatal COVID-19 Cases.png)
 <img src="New_Graphs/Countries by COVID-19 Mortality Rates.png">[full size](New_Graphs/Countries by COVID-19 Mortality Rates.png)
